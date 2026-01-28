@@ -1,6 +1,6 @@
 # Hi there, I'm Erik! 👋
 
-### Web Developer & Student based in Kiel, Germany
+### Developer & Student based in Kiel, Germany
 
 I am currently studying **Business Informatics** (Wirtschaftsinformatik) at CAU Kiel, focusing on **Process Science** and **Data Science**. I combine technical skills with a solution-oriented mindset to build efficient web applications.
 
@@ -8,9 +8,9 @@ I am currently studying **Business Informatics** (Wirtschaftsinformatik) at CAU 
 
 ### 🛠 Tech Stack
 
-* **Languages:** Java, JavaScript, Python
+* **Languages:** Java, JavaScript, Python, SQL
 * **Focus:** APIs, Data Visualization, Algorithms
-* **Interests:** Backend Development, Innovative Web Solutions
+* **Interests:** Backend Development, Innovative Web Solutions, Data Science and Machine Learning
 
 ---
 
