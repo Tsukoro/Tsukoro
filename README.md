@@ -1,4 +1,4 @@
-# Hi there, I'm Erik! 👋
+# Hi there, I'm Erik!
 
 ### Developer & Student based in Kiel, Germany
 
@@ -7,16 +7,16 @@ I am currently doing my **Business Informatics** (Wirtschaftsinformatik) Bachelo
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 * **Modelling:** BPMN 2.0, Camunda, UML
 * **Languages:** Java, JavaScript, Python, SQL (also knowledge in HTML and CSS)
-* **Focus:** Data Visualization, Algorithms
+* **Focus:** Data Visualization, Algorithms, Data Science
 * **Interests:** Solving business tasks with algorithmic approaches and critical thinking
 * **Hobbies:** Coding, Chess, Tricking, Swimming, Lifting, Learning Japanese and Cooking
 
 ---
 
-### 🌍 Spoken Languages
+### Spoken Languages
 
 * **German** (Native)
 * **English** (Fluent)
